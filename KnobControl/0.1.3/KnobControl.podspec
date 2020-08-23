@@ -35,7 +35,7 @@ s.source = { :git => "https://github.com/yuleonetscapenet/TestPod.git",
 s.framework = "UIKit"
 s.dependency 'Alamofire'
 s.dependency 'SSZipArchive'
-s.dependency 'MBProgressHUD', '~> 1.1.0'
+# s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
 s.source_files = "KnobControl/*.{swift}"
