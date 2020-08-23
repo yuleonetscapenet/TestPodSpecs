@@ -34,6 +34,7 @@ s.source = { :git => "https://github.com/yuleonetscapenet/TestPod.git",
 # 7
 s.framework = "UIKit"
 s.dependency 'Alamofire'
+s.dependency 'SSZipArchive'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
